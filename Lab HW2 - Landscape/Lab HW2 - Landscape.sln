@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab HW2 - Landscape", "Assembly-CSharp-firstpass.csproj", "{1321CC2D-8236-00B4-322C-D74F9193E692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab HW2 - Landscape", "Assembly-CSharp.csproj", "{6F6E5819-E9E2-7027-725E-693B0712FB9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1321CC2D-8236-00B4-322C-D74F9193E692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1321CC2D-8236-00B4-322C-D74F9193E692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1321CC2D-8236-00B4-322C-D74F9193E692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1321CC2D-8236-00B4-322C-D74F9193E692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6E5819-E9E2-7027-725E-693B0712FB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6E5819-E9E2-7027-725E-693B0712FB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6E5819-E9E2-7027-725E-693B0712FB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6E5819-E9E2-7027-725E-693B0712FB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
